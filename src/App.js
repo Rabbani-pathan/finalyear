@@ -25,7 +25,9 @@ function Home() {
   };
 
   return (
+
     <div>
+      <h1>BabaVali.com</h1>
       <div className="input-container">
         <input
           type="text"
